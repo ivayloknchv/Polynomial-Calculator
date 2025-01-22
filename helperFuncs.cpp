@@ -32,7 +32,7 @@ int myPow(int base, int pow)
 
 	if (pow % 2 == 0)
 	{
-		myPow(base * base, pow / 2);
+		return myPow(base * base, pow / 2);
 	}
 	else
 	{
