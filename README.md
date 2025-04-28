@@ -1,5 +1,4 @@
-Polynomial Calculator - a mini project intended to work with polynomials with rational coefficients
-Following functionalities are included:
+Polynomial Calculator - a mini project intended to work with polynomials with rational coefficients. Following functionalities are included:
 1) Add polynomials
 2) Subtract polynomials
 3) Multiply polynomials
